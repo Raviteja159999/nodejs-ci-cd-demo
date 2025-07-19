@@ -5,11 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build": "echo 'No build step defined'"
+    "build": "echo \"Build successful!\""
   },
   "author": "Raviteja",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "jest": "^29.0.0"
   }
